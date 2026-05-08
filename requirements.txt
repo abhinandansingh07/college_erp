@@ -1,0 +1,8 @@
+asgiref
+Django
+djangorestframework
+djoser
+gunicorn
+pytz
+sqlparse
+whitenoise
